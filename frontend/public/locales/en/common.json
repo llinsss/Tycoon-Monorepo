@@ -1,0 +1,13 @@
+{
+  "join_room": {
+    "title": "Join Room",
+    "room_code_label": "Room Code",
+    "room_code_placeholder": "e.g. TYCOON",
+    "submit": "Join",
+    "invalid_code": "Room code must be 6 characters (letters or numbers).",
+    "network_error": "Network error. Please check your connection and try again.",
+    "timeout": "Request timed out. Please try again.",
+    "service_unavailable": "Service is currently unavailable. Please try again later.",
+    "success": "Joining room…"
+  }
+}

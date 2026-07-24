@@ -1,0 +1,13 @@
+{
+  "join_room": {
+    "title": "Unirse a la Sala",
+    "room_code_label": "Código de Sala",
+    "room_code_placeholder": "ej. TYCOON",
+    "submit": "Unirse",
+    "invalid_code": "El código debe tener 6 caracteres (letras o números).",
+    "network_error": "Error de red. Comprueba tu conexión e inténtalo de nuevo.",
+    "timeout": "La solicitud expiró. Por favor, inténtalo de nuevo.",
+    "service_unavailable": "El servicio no está disponible. Inténtalo más tarde.",
+    "success": "Uniéndose a la sala…"
+  }
+}
